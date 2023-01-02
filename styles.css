@@ -27,7 +27,7 @@ body {
 
 .gallery__image:hover {
   filter: drop-shadow(4px 4px 6px gray);
-  transform: scale(1.05);
+  transform: scale(1.03);
 }
 
 .gallery__image {
